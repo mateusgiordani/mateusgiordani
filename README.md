@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mateusgiordani
-- 👀 I’m interested in php, javascript
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in Php, Laravel , javascript
+- 🌱 I’m currently learning Hyperf
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
