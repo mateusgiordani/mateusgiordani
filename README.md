@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @mateusgiordani
-- 👀 I’m interested in Php, Laravel , Hyperf, javascript , python, llms, ollama. 
-- 🌱 I’m currently learning ollama
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @mateusgiordani
 
-<!---
-mateusgiordani/mateusgiordani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Developer interested in building robust systems, learning new things, and turning inside jokes into fully functional projects. I have a bit of a silly sense of humor, which means if an idea makes me laugh, there is a 90% chance I will build an API for it.
+
+### 🛠️ Tech Stack & Interests
+- **Backend:** PHP (Laravel, Hyperf), Python
+- **Frontend:** JavaScript
+- **AI & Automation:** LLMs, Ollama
+- **IoT:** Raspberry Pi, ESP32, and other single-board computers
+- **Cybersecurity:** Ethical hacking, advanced exploit development
+
+---
+
+### 🚀 Projects
+
+#### 📦 Open Source & Tools (Serious Business)
+* **[quick-cam-preview](https://github.com/mateusgiordani/quick-cam-preview)** - A lightweight tool designed for quick camera testing and previews.
+
+#### 🐈 For the Culture (Chaotic Good)
+* **[CatsAPI](https://catsapi.com.br/)** - Because the internet always needs more cat data. 
+* **[Fiat Uno](https://fiatuno.com.br/)** - Dedicated to the undisputed king of Brazilian roads (with or without the ladder on top).
+
+---
+
+### 🌱 Currently Learning
+- Advanced implementations and integrations with **Ollama**
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mateus-vicenzo-silveira-giordani-749119144/)
