@@ -7,8 +7,6 @@ I am a Developer interested in building robust systems, learning new things, and
 - **Frontend:** JavaScript
 - **AI & Automation:** LLMs, Ollama
 - **IoT:** Raspberry Pi, ESP32, and other single-board computers
-- **Cybersecurity:** Ethical hacking, advanced exploit development
-
 ---
 
 ### 🚀 Projects
