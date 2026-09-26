@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @mateusgiordani
 
-I am a developer working on backend systems, automation, and game reverse engineering. I enjoy figuring out how things work, rebuilding them in C, and turning inside jokes into fully functional projects. I have a bit of a silly sense of humor, which means if an idea makes me laugh, there is a 90% chance I will build an API for it.
+I am a Brazilian developer working on backend systems, automation, and game reverse engineering. I enjoy figuring out how things work, rebuilding them in C, and turning inside jokes into fully functional projects. I have a bit of a silly sense of humor, which means if an idea makes me laugh, there is a 90% chance I will build an API for it.
 
 ### 🛠️ Tech Stack & Interests
 
