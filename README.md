@@ -1,13 +1,16 @@
 # 👋 Hi, I’m @mateusgiordani
 
-I am a Developer interested in building robust systems, learning new things, and turning inside jokes into fully functional projects. I have a bit of a silly sense of humor, which means if an idea makes me laugh, there is a 90% chance I will build an API for it.
+I am a developer working on backend systems, automation, and game reverse engineering. I enjoy figuring out how things work, rebuilding them in C, and turning inside jokes into fully functional projects. I have a bit of a silly sense of humor, which means if an idea makes me laugh, there is a 90% chance I will build an API for it.
 
 ### 🛠️ Tech Stack & Interests
-- **Backend:** PHP (Laravel, Hyperf), Python
-- **Frontend:** JavaScript
+
+- **Languages:** C, Python, PHP, JavaScript
+- **Backend:** Laravel, Hyperf, APIs
+- **Reverse Engineering:** Ghidra, MIPS assembly, PlayStation game internals
+- **Tooling & Verification:** Python automation, compiler experiments, byte-for-byte matching
 - **AI & Automation:** LLMs, Ollama
 - **IoT:** Raspberry Pi, ESP32, and other single-board computers
-- **Reverse Engineering:** PlayStation game decompilation, C, MIPS, and Python tooling
+
 ---
 
 ### 🚀 Projects
@@ -26,6 +29,10 @@ I am a Developer interested in building robust systems, learning new things, and
 ---
 
 ### 🌱 Currently Learning
+
+- Reverse engineering and matching decompilation of PlayStation games
+- Low-level C, MIPS assembly, and compiler behavior
+- Binary analysis and reproducible byte-level verification
 - Advanced implementations and integrations with **Ollama**
 
 ### 📫 Connect with me
