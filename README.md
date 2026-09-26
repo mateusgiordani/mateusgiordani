@@ -17,7 +17,7 @@ I am a Brazilian developer working on backend systems, automation, and game reve
 
 #### 🎮 Game Reverse Engineering & Preservation
 
-* **[dw3-decomp-expanded](https://github.com/mateusgiordani/dw3-decomp-expanded)** — A matching C decompilation of *Digimon World 2003* / *Digimon World 3* (PAL, `SLES-03936`). The Card Cage milestone is complete: **407/407 functions** across the four card game overlays compile back to the original PAL bytes with both the public and PsyQ toolchains. Sources, build recipes, and the [v0.2.0 verification certificate](https://github.com/mateusgiordani/dw3-decomp-expanded/blob/main/reports/milestone-1-v0.2.0.md) are public. Work on the rest of the game continues.
+* **[dw3-decomp-expanded](https://github.com/mateusgiordani/dw3-decomp-expanded)** — A matching C decompilation of *Digimon World 2003* / *Digimon World 3* (PAL, `SLES-03936`). **407 matching C functions** across the four card game overlays compile back to the original PAL bytes with both the public and PsyQ toolchains. A new PAL review expanded the inventory to **435 functions (28 pending)**, reopening the Card Cage milestone. Sources, build recipes, and the [v0.2.0 verification certificate](https://github.com/mateusgiordani/dw3-decomp-expanded/blob/main/reports/milestone-1-v0.2.0.md) are public. Work on the rest of the game continues.
 
 #### 📦 Open Source & Tools (Serious Business)
 * **[quick-cam-preview](https://github.com/mateusgiordani/quick-cam-preview)** - A lightweight tool designed for quick camera testing and previews.
